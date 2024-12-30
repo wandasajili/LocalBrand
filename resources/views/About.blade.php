@@ -162,7 +162,7 @@
             </div>
 
             <div class="flex items-center justify-center my-4 space-x-4">
-                <img src="https://deo.shopeemobile.com/shopee/shopee-pcmall-live-sg/assets/ca5d12864c12916c05640b36e47ac5c9.png" alt="Flik Logo" class="h-12">
+                <img src="https://framerusercontent.com/images/rth5QMnftL3sjNDIQugqlMwa0.png" alt="Flik Logo" class="h-12">
             </div>
 
             <div class="mt-8">
