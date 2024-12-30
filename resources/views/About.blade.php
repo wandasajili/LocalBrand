@@ -121,7 +121,7 @@
                             <img class="size-10 rounded-full"
                                 src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80"
                                 alt="">
-                        </div> 
+                        </div>
                         <div class="ml-3">
                             <div class="text-base/5 font-medium text-white">Tom Cook</div>
                             <div class="text-sm font-medium text-gray-400">tom@example.com</div>
@@ -156,9 +156,9 @@
         <main class="bg-white flex flex-col items-center justify-center min-h-screen">
             <div class="text-center mb-8">
                 <h1 class="text-4xl font-bold">Check Order</h1>
-                <p class="mt-2 text-gray-600">Lorem ipsum dolor sit amet consectetur adipisicing elit.<br>
-                    Vero magni voluptate magnam et quas consequuntur incidunt enim ducimus dolore,illo, deleniti quis<br>
-                    . Possimus animi, eos ullam illum facilis veritatis maiores!.</p>
+                <p class="mt-2 text-gray-600">Silahkan Check Email Yang Terdaftar Saat Memesan Atau<br>
+                    Download Aplikasi Flik di Google Play dan App Store<br>
+                    Untuk mengetahui Pesanan dan Reward.</p>
             </div>
 
             <div class="flex items-center justify-center my-4 space-x-4">
@@ -229,7 +229,7 @@
                     </div>
 
                     <div>
-                        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2>
+                        {{-- <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2> --}}
                         {{-- <ul class="text-gray-500 dark:text-gray-400 font-medium">
                             <li class="mb-4">
                                 <a href="#" class="hover:underline">iOS</a>
