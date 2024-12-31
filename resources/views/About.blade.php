@@ -165,6 +165,12 @@
                 <img src="https://framerusercontent.com/images/rth5QMnftL3sjNDIQugqlMwa0.png" alt="Flik Logo" class="h-12">
             </div>
 
+            <div class="flex items-center justify-center my-4 space-x-4">
+                <img src="https://cdn.shopify.com/s/files/1/0573/3597/1953/files/playstore_480x480.png?v=1715848728" alt="Flik Logo" class="h-12">
+            </div>
+            <div class="flex items-center justify-center my-4 space-x-4">
+                <img src="https://cdn.shopify.com/s/files/1/0573/3597/1953/files/apstore_480x480.png?v=1715848727" alt="Flik Logo" class="h-12">
+            </div>
             <div class="mt-8">
                 <h2 class="text-lg font-semibold">Subscribe to our emails</h2>
                 <form class="mt-2">
