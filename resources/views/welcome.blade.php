@@ -265,64 +265,63 @@
                     </nav>
                 </div>
             </div>
-    </div>
-    </main>
+        </main>
 
-    <footer class="bg-white dark:bg-gray-900">
-        <div class="mx-auto w-full max-w-screen-xl">
-            <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
-                <div>
-                    <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
-                    <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                        <li class="mb-4">
-                            <a href="/" class=" hover:underline">Home</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="/Catolog" class="hover:underline">Catolog</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="/Check" class="hover:underline">Check
-                                Order</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="/contact" class="hover:underline">contact</a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Help center</h2>
-                    <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">instragam</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Twitter</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Facebook</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">WhatsApp</a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
-                    <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Privacy Policy</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Licensing</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Terms &amp; Conditions</a>
-                        </li>
-                    </ul>
-                </div>
-                <div>
-                    {{-- <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2> --}}
-                    {{-- <ul class="text-gray-500 dark:text-gray-400 font-medium">
+        <footer class="bg-white dark:bg-gray-900">
+            <div class="mx-auto w-full max-w-screen-xl">
+                <div class="grid grid-cols-2 gap-8 px-4 py-6 lg:py-8 md:grid-cols-4">
+                    <div>
+                        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Company</h2>
+                        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <li class="mb-4">
+                                <a href="/" class=" hover:underline">Home</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="/Catolog" class="hover:underline">Catolog</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="/Check" class="hover:underline">Check
+                                    Order</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="/contact" class="hover:underline">contact</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Help center</h2>
+                        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">instragam</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Twitter</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Facebook</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">WhatsApp</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Legal</h2>
+                        <ul class="text-gray-500 dark:text-gray-400 font-medium">
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Privacy Policy</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Licensing</a>
+                            </li>
+                            <li class="mb-4">
+                                <a href="#" class="hover:underline">Terms &amp; Conditions</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div>
+                        {{-- <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2> --}}
+                        {{-- <ul class="text-gray-500 dark:text-gray-400 font-medium">
                         <li class="mb-4">
                             <a href="#" class="hover:underline">iOS</a>
                         </li>
@@ -336,12 +335,12 @@
                             <a href="#" class="hover:underline">MacOS</a>
                         </li>
                     </ul> --}}
+                    </div>
                 </div>
             </div>
-        </div>
 
 
-    </footer>
+        </footer>
     </div>
 
 
