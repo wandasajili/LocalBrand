@@ -50,3 +50,7 @@ Route::get('/admin', function () {
 //     return view('Halaman_admin',);
 // });
 
+
+Route::get('/sale', function () {
+    return view('sale',);
+});

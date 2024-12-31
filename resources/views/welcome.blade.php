@@ -142,7 +142,8 @@
                     nobis, iure sapiente vero.
                 <div class="flex space-x-4">
                     <button class="bg-black text-white py-2 px-4 rounded-lg">ADD TO CART</button>
-                    <button class="bg-white text-black py-2 px-4 rounded-lg">BUY NOW</button>
+                    <a href="/sale"
+                        class="block rounded-md px-3 py-2 text-base font-medium hover:bg-blue-700 hover:text-white">SALE</a>
                 </div>
             </div>
 
