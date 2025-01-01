@@ -54,7 +54,6 @@
                                         id="user-menu-button" aria-expanded="false" aria-haspopup="true">
                                         <span class="absolute -inset-1.5"></span>
                                         <span class="sr-only">Open user menu</span>
-                                        >
                                     </button>
                                 </div>
 
