@@ -167,8 +167,6 @@
                             <!-- Card Produk -->
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304578653794158__201027152323_dusty_20pink_054ea1db-3494-49cd-ad79-289b2a91c42f.jpg?v=1710818978&width=533"
                                         alt="Produk 1" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -180,8 +178,6 @@
                             <!-- Salin Struktur Card untuk Produk Lain -->
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304578109231830__201027152417_pink_ff29abb2-e7b4-4d70-9cd7-fdb0285f4164.jpg?v=1710818980&width=533"
                                         alt="Produk 2" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -192,8 +188,6 @@
 
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304577799035908__201030150724_lilac_767cd6b2-e6a4-4565-bba8-9bef4ea23f46.jpg?v=1710819051&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -203,8 +197,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304575987665439__201027152408_royal_d3fb0424-efa0-40f1-8654-63b3c6a77c09.jpg?v=1710819040&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -214,8 +206,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304577557462518__201027152646_hd_20maroon_d087a656-3d0b-49ce-a59b-0d26d3901cc5.jpg?v=1710819036&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -225,8 +215,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628304576545454451__201027152615_hd_20red_ff1ce82d-a554-44b0-b1fc-fbd497ee2ef9.jpg?v=1710818983&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -236,8 +224,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628309441445036058__201109152455_pink_20peacock_aceae221-369b-4ad5-9eb2-03d4ea35853a.jpg?v=1710819022"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -247,8 +233,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628306549299347043__201027144643_crew_20d_20jon_0e9c3430-abab-4b20-9dc3-d59f6d0d4791.jpg?v=1710819025&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -258,8 +242,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628306546692186243__201024104253_crew_20yell_b58331c8-74d7-450b-88e8-f7e56ee6b0c9.jpg?v=1710819034&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -269,8 +251,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628306546477513279__201024104549_WhatsApp_20Image_202020-08-31_20at_2022.15.43_0c7572c5-1f29-4f1c-bd96-6e00328b5b49.jpg?v=1710818958&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -280,8 +260,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/935ca7c1-56fd-4b20-b14b-07ad70d0399c-COCA_20MOCA_687625eb-c294-41e1-a360-607d03798ef1.jpg?v=1710819389&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -291,8 +269,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/1628306549005879541__201027144655_DUSTY_20PINK_044885a3-0966-49b7-af00-b0a98e59f789.jpg?v=1710819031&width=533"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -302,8 +278,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRplTFYTNx2eazhbfG8lFQy8NK_4ehLYSNaoc7d_aBll5pewAc3EjPcp0v3kompF4QEt_0&usqp=CAU"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -313,8 +287,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/files/id-11134207-7r98y-lt3dimi3gg21e1.jpg?v=1715408216&width=1500"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -324,8 +296,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/7c544d48-2165-4f1e-9ed5-644372ed142a-BLACK_19a035ba-dc87-44d2-a8d9-c1c272872069.jpg?v=1710819512&width=1500"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -335,8 +305,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/d2290440-c837-4c2e-9d4c-334a332d88c5-cotton_20black_0f924f4b-9a57-45bf-b1f0-a60c5a13dd38.jpg?v=1710819407&width=1500"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -346,8 +314,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://hgbasiclabs.com/cdn/shop/products/11b96509-39a5-45e4-9287-b6b10c77b5d9-hg-stripe-flag-tee-navy_c3ab2001-1a91-48dd-95ab-81da8e05563a.jpg?v=1710819297&width=1500"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
@@ -357,8 +323,6 @@
                             </div>
                             <div class="bg-white rounded shadow p-4 text-center">
                                 <div class="relative">
-                                    <span
-                                        class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0chie3g4pYDLxtvF_8IelpHlt-3aM88wVC6uV2dgn7BoQaUB0pUkRQzyUByZign_F7hY&usqp=CAU"
                                         alt="Produk 3" class="w-full h-auto rounded mb-4">
                                 </div>
