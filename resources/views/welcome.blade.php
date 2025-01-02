@@ -99,8 +99,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">CREWNECK STRIPE GREY-WHITE</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 200.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 125.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 125.000,00 IDR</p>
                         </div>
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
@@ -110,8 +109,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">TWIST CREWNECKNAVY-DJON</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 300.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 125.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 125.000,00 IDR</p>
                         </div>
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
@@ -121,8 +119,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">HOODIE STRIPE NAVY GREY</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 400.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 250.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 250.000,00 IDR</p>
                         </div>
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
@@ -132,8 +129,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">CREWNECK SYCAMORE</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 200.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 150.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 150.000,00 IDR</p>
                         </div>
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
@@ -143,8 +139,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">HEAVY COTTON STRIPE BLUE</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 300.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 125.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 125.000,00 IDR</p>
                         </div>
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
@@ -154,8 +149,7 @@
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
                             <h3 class="text-gray-700 font-semibold">Birmingham Flex Outer Khaki</h3>
-                            <p class="text-gray-500 line-through text-sm">Rp 300.000,00 IDR</p>
-                            <p class="text-red-600 font-bold">Rp 200.000,00 IDR</p>
+                            <p class="text-black font-bold">Rp 200.000,00 IDR</p>
                         </div>
                     </div>
                 </div>
