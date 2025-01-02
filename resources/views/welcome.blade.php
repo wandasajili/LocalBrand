@@ -132,7 +132,7 @@
                 </div>
             </div>
         </nav>
-
+        
         <div class="flex max-w-4xl mx-auto p-6 ">
             <div class="flex-1">
                 <h1 class="text-4xl font-bold mb-4"><br>Local Brand</h1>
