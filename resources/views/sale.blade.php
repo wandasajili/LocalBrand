@@ -42,7 +42,7 @@
                                     </svg>
                                 </button>
                                 <div x-data="{ isDropdownOpen: false }" class="relative">
-                                    <button @click="isDropdownOpen = !isDropdownOpen" class="rounded-full bg-blue-800 text-sm focus:ring-2 focus:ring-white">
+                                    <button @click="isDropdownOpen = !isDropdownOpen" class="rounded-full bg-gray-800 text-sm focus:ring-2 focus:ring-white">
                                         <span class="sr-only">Open user menu</span>
                                         <svg class="w-6 h-6 text-gray-400 hover:text-white" fill="currentColor" viewBox="0 0 24 24">
                                             <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v1h16v-1c0-2.66-5.33-4-8-4z" />
@@ -120,22 +120,6 @@
                     <a href="/Catolog" class="block rounded-md px-3 py-2 hover:bg-gray-700 hover:text-white">Catolog</a>
                     <a href="/Check" class="block rounded-md px-3 py-2 hover:bg-gray-700 hover:text-white">Check Order</a>
                     <a href="/contact" class="block rounded-md px-3 py-2 hover:bg-gray-700 hover:text-white">Contact</a>
-                </div>
-                <div class="border-t border-gray-700 pb-3 pt-4">
-                    <div class="flex items-center px-5">
-
-                        <button type="button"
-                            class="relative ml-auto shrink-0 rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:outline-none focus:ring-2 focus:ring-white focus:ring-offset-2 focus:ring-offset-gray-800">
-                            <span class="absolute -inset-1.5"></span>
-                            <span class="sr-only">View notifications</span>
-                            <svg class="size-6" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
-                                stroke="currentColor" aria-hidden="true" data-slot="icon">
-                                <path stroke-linecap="round" stroke-linejoin="round"
-                                    d="M14.857 17.082a23.848 23.848 0 0 0 5.454-1.31A8.967 8.967 0 0 1 18 9.75V9A6 6 0 0 0 6 9v.75a8.967 8.967 0 0 1-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 0 1-5.714 0m5.714 0a3 3 0 1 1-5.714 0" />
-                            </svg>
-                        </button>
-
-                    </div>
                 </div>
             </div>
         </nav>
