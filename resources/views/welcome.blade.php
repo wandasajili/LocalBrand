@@ -20,7 +20,7 @@
                         <div class="hidden md:block">
                             <div class="ml-10 flex items-baseline space-x-4">
                                 <a href="/"
-                                    class="rounded-md bg-gray-900 px-3 py-2 text-sm font-medium text-white"
+                                    class="rounded-md px-3 py-2 text-sm font-medium text-white"
                                     aria-current="page">Home</a>
                                 <a href="/Catolog"
                                     class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Catolog</a>
@@ -132,7 +132,7 @@
                 </div>
             </div>
         </nav>
-        
+
         <div class="flex max-w-4xl mx-auto p-6 ">
             <div class="flex-1">
                 <h1 class="text-4xl font-bold mb-4"><br>Local Brand</h1>
