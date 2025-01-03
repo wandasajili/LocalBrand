@@ -54,3 +54,8 @@ Route::get('/admin', function () {
 Route::get('/sale', function () {
     return view('sale',);
 });
+
+
+Route::get('/forgotpass', function () {
+    return view('forgotpass',);
+});

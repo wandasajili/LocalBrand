@@ -18,40 +18,69 @@
                 <div class="flex h-16 items-center justify-between">
                     <div class="flex items-center">
                         <div class="hidden md:flex items-baseline space-x-4">
-                            <a href="/" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300" aria-current="page">Home</a>
-                            <a href="/Catolog" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Catolog</a>
-                            <a href="/Check" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Check Order</a>
-                            <a href="/contact" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Contact</a>
+                            <a href="/" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300"
+                                aria-current="page">Home</a>
+                            <a href="/Catolog"
+                                class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Catolog</a>
+                            <a href="/Check"
+                                class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Check
+                                Order</a>
+                            <a href="/contact"
+                                class="rounded-md px-3 py-2 text-sm font-medium text-gray-300 hover:bg-gray-700 hover:text-white">Contact</a>
                         </div>
                     </div>
                     <div class="hidden md:flex items-center space-x-4">
-                        <button type="button" class="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:ring-2 focus:ring-white">
+                        <div
+                            class="flex px-4 py-2 rounded-md border-2 border-gray-700 overflow-hidden max-w-md mx-auto font-[sans-serif]">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192.904 192.904" width="16px"
+                                class="fill-gray-600 mr-3 rotate-90">
+                                <path
+                                    d="m190.707 180.101-47.078-47.077c11.702-14.072 18.752-32.142 18.752-51.831C162.381 36.423 125.959 0 81.191 0 36.422 0 0 36.423 0 81.193c0 44.767 36.422 81.187 81.191 81.187 19.688 0 37.759-7.049 51.831-18.751l47.079 47.078a7.474 7.474 0 0 0 5.303 2.197 7.498 7.498 0 0 0 5.303-12.803zM15 81.193C15 44.694 44.693 15 81.191 15c36.497 0 66.189 29.694 66.189 66.193 0 36.496-29.692 66.187-66.189 66.187C44.693 147.38 15 117.689 15 81.193z">
+                                </path>
+                            </svg>
+                            <input type="email" placeholder="Search Something..."
+                                class="w-full outline-none bg-transparent text-white text-sm" />
+                        </div>
+
+                        <button type="button"
+                            class="rounded-full bg-gray-800 p-1 text-gray-400 hover:text-white focus:ring-2 focus:ring-white">
                             <span class="sr-only">View notifications</span>
                             <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75V9a6 6 0 00-12 0v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0" />
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"
+                                    d="M14.857 17.082a23.848 23.848 0 005.454-1.31A8.967 8.967 0 0118 9.75V9a6 6 0 00-12 0v.75a8.967 8.967 0 01-2.312 6.022c1.733.64 3.56 1.085 5.455 1.31m5.714 0a24.255 24.255 0 01-5.714 0m5.714 0a3 3 0 11-5.714 0" />
                             </svg>
                         </button>
                         <div x-data="{ isDropdownOpen: false }" class="relative">
-                            <button @click="isDropdownOpen = !isDropdownOpen" class="rounded-full bg-gray-800 text-sm focus:ring-2 focus:ring-white">
+                            <button @click="isDropdownOpen = !isDropdownOpen"
+                                class="rounded-full bg-gray-800 text-sm focus:ring-2 focus:ring-white">
                                 <span class="sr-only">Open user menu</span>
-                                <svg class="w-6 h-6 text-gray-400 hover:text-white" fill="currentColor" viewBox="0 0 24 24">
-                                    <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v1h16v-1c0-2.66-5.33-4-8-4z" />
+                                <svg class="w-6 h-6 text-gray-400 hover:text-white" fill="currentColor"
+                                    viewBox="0 0 24 24">
+                                    <path
+                                        d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v1h16v-1c0-2.66-5.33-4-8-4z" />
                                 </svg>
                             </button>
-                            <div x-show="isDropdownOpen" @click.away="isDropdownOpen = false" class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-20">
-                                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Your Profile</a>
-                                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Settings</a>
-                                <a href="#" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Sign out</a>
+                            <div x-show="isDropdownOpen" @click.away="isDropdownOpen = false"
+                                class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-20">
+                                <a href="/login"
+                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Login</a>
+                                <a href="/login" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Sign
+                                    out</a>
                             </div>
                         </div>
                     </div>
                     <div class="md:hidden">
-                        <button @click="isOpen = !isOpen" class="text-gray-400 hover:bg-gray-700 hover:text-white p-2 rounded-md">
-                            <svg x-show="!isOpen" class="block w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                        <button @click="isOpen = !isOpen"
+                            class="text-gray-400 hover:bg-gray-700 hover:text-white p-2 rounded-md">
+                            <svg x-show="!isOpen" class="block w-6 h-6" xmlns="http://www.w3.org/2000/svg"
+                                fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4 6h16M4 12h16m-7 6h7" />
                             </svg>
-                            <svg x-show="isOpen" class="block w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+                            <svg x-show="isOpen" class="block w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none"
+                                viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M6 18L18 6M6 6l12 12" />
                             </svg>
                         </button>
                     </div>
@@ -78,7 +107,8 @@
                 </div>
             </div>
             <div class="flex-none">
-                <img src="https://hgbasiclabs.com/cdn/shop/products/6d9ef2f2-c83a-4f67-868d-75164b3dd11c-GREY-WHITE_e8d2f675-9b65-4c38-ba34-13de8e5617cf.jpg?v=1710819445&width=600" alt="Air Jordan 1 Dark Mocha" class="w-full md:w-72">
+                <img src="https://hgbasiclabs.com/cdn/shop/products/6d9ef2f2-c83a-4f67-868d-75164b3dd11c-GREY-WHITE_e8d2f675-9b65-4c38-ba34-13de8e5617cf.jpg?v=1710819445&width=600"
+                    alt="Air Jordan 1 Dark Mocha" class="w-full md:w-72">
             </div>
         </div>
 
@@ -88,7 +118,7 @@
             <!-- Product Categories -->
             <section id="products" class="">
                 <div class="container mx-auto">
-                    <h3 class="text-3xl font-bold text-center text-green-700 mb-10">kategori produk</h3>
+                    <h3 class="text-3xl font-bold text-center text-black mb-10">Flash sale</h3>
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <!-- Category Card 1 -->
                         <div class="bg-white rounded shadow p-4 text-center">
@@ -243,31 +273,10 @@
                             </li>
                         </ul>
                     </div>
-                    <div>
-                        {{-- <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2> --}}
-                        {{-- <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">iOS</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Android</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">Windows</a>
-                        </li>
-                        <li class="mb-4">
-                            <a href="#" class="hover:underline">MacOS</a>
-                        </li>
-                    </ul> --}}
-                    </div>
                 </div>
             </div>
-
-
         </footer>
     </div>
-
-
 </body>
 
 </html>
