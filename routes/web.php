@@ -18,21 +18,9 @@ Route::get('/contact', function () {
     return view('contact',);
 });
 
-// Route::get('/admin', function () {
-//     return view('admin',);
-// });
-
 Route::get('/singin', function () {
     return view('!',);
 });
-
-// Route::get('/your profile', function () {
-//     return view('your profile',);
-// });
-
-// Route::get('/seting', function () {
-//     return view('seting',);
-// });
 
 Route::get('/login', function () {
     return view('login',);
@@ -45,11 +33,6 @@ Route::get('/register', function () {
 Route::get('/admin', function () {
     return view('admin',);
 });
-
-// Route::get('/login_', function () {
-//     return view('Halaman_admin',);
-// });
-
 
 Route::get('/sale', function () {
     return view('sale',);

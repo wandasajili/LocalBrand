@@ -110,9 +110,9 @@
                         </div>
 
                         <div class="!mt-8">
-                          <button type="button" class="w-full shadow-xl py-2.5 px-4 text-sm tracking-wide rounded-lg text-white bg-blue-600 hover:bg-blue-700 focus:outline-none">
+                          <button  type="button" class="w-full shadow-xl  py-2.5 px-4 text-sm tracking-wide rounded-lg text-white bg-blue-600 hover:bg-blue-700 focus:outline-none">
                             Sign in
-                          </button>
+                        </button>
                         </div>
 
                         <p class="text-sm !mt-8 text-center text-gray-500">Don't have an account <a href="/register" class="text-blue-600 font-semibold hover:underline ml-1 whitespace-nowrap">Register here</a></p>

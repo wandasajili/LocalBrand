@@ -114,10 +114,10 @@
 
 
         <main class="grid min-h-full place-items-center bg-white px-6 py-10">
-
             <!-- Product Categories -->
             <section id="products" class="">
                 <div class="container mx-auto">
+                    
                     <h3 class="text-3xl font-bold text-center text-black mb-10">Flash sale</h3>
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <!-- Category Card 1 -->
