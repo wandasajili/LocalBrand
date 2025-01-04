@@ -102,7 +102,7 @@
                     nobis, iure sapiente vero.
                 </p>
                 <div class="flex space-x-4">
-                    <button class="bg-black text-white py-2 px-4 rounded-lg">ADD TO CART</button>
+                    <button class="bg-black text-white py-2 px-4 rounded-lg"><a href="/cekout">ADD TO CART</a></button>
                     <a href="/sale" class="rounded-md px-3 py-2 bg-blue-500 text-white hover:bg-blue-700">SALE</a>
                 </div>
             </div>
@@ -123,8 +123,7 @@
                         <!-- Category Card 1 -->
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
-                                <span
-                                    class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
+                                <span class="absolute top-2 left-2 bg-black text-white text-xs font-bold px-2 py-1 rounded">Sale</span>
                                 <img src="https://hgbasiclabs.com/cdn/shop/products/6d9ef2f2-c83a-4f67-868d-75164b3dd11c-GREY-WHITE_e8d2f675-9b65-4c38-ba34-13de8e5617cf.jpg?v=1710819445&width=600"
                                     alt="Produk 3" class="w-full h-auto rounded mb-4">
                             </div>
