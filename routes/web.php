@@ -42,3 +42,7 @@ Route::get('/sale', function () {
 Route::get('/forgotpass', function () {
     return view('forgotpass',);
 });
+
+Route::get('/cekout', function () {
+    return view('cekout',);
+});

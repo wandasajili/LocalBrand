@@ -117,7 +117,7 @@
             <!-- Product Categories -->
             <section id="products" class="">
                 <div class="container mx-auto">
-                    
+
                     <h3 class="text-3xl font-bold text-center text-black mb-10">Flash sale</h3>
                     <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                         <!-- Category Card 1 -->
@@ -130,7 +130,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">CREWNECK STRIPE GREY-WHITE</h3>
                             <p class="text-black font-bold">Rp 125.000,00 IDR</p>
+                            <button type="id-1"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
                                 <span
@@ -140,7 +145,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">TWIST CREWNECKNAVY-DJON</h3>
                             <p class="text-black font-bold">Rp 125.000,00 IDR</p>
+                            <button type="id-2"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
                                 <span
@@ -150,7 +160,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">HOODIE STRIPE NAVY GREY</h3>
                             <p class="text-black font-bold">Rp 250.000,00 IDR</p>
+                            <button type="id-3"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
                                 <span
@@ -160,7 +175,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">CREWNECK SYCAMORE</h3>
                             <p class="text-black font-bold">Rp 150.000,00 IDR</p>
+                            <button type="id-4"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
                                 <span
@@ -170,7 +190,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">HEAVY COTTON STRIPE BLUE</h3>
                             <p class="text-black font-bold">Rp 125.000,00 IDR</p>
+                            <button type="id-5"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                         <div class="bg-white rounded shadow p-4 text-center">
                             <div class="relative">
                                 <span
@@ -180,7 +205,12 @@
                             </div>
                             <h3 class="text-gray-700 font-semibold">Birmingham Flex Outer Khaki</h3>
                             <p class="text-black font-bold">Rp 200.000,00 IDR</p>
+                            <button type="id-6"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
+
                     </div>
                 </div>
             </section>

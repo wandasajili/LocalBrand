@@ -174,9 +174,10 @@
                                     </div>
                                 </div>
                             </div>
-                            <button type="button"
-                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">Add
-                                to cart</button>
+                            <button type="id-1"
+                                class="px-2 h-9 font-semibold w-full mt-4 bg-blue-600 hover:bg-blue-700 text-white tracking-wide ml-auto outline-none border-none rounded">
+                                <a href="/cekout">Add to cart</a>
+                            </button>
                         </div>
                     </div>
 
