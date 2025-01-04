@@ -66,8 +66,10 @@
                                     </button>
                                     <div x-show="isDropdownOpen" @click.away="isDropdownOpen = false"
                                         class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-20">
-                                        <a href="/Profile" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Profile</a>
-                                        <a href="/login" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Sign out</a>
+                                        <a href="/Profile"
+                                            class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Profile</a>
+                                        <a href="/login"
+                                            class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Sign out</a>
                                     </div>
                                 </div>
                             </div>
@@ -235,28 +237,10 @@
                             </li>
                         </ul>
                     </div>
-
-                    <div>
-                        {{-- <h2 class="mb-6 text-sm font-semibold text-gray-900 uppercase dark:text-white">Download</h2> --}}
-                        {{-- <ul class="text-gray-500 dark:text-gray-400 font-medium">
-                            <li class="mb-4">
-                                <a href="#" class="hover:underline">iOS</a>
-                            </li>
-                            <li class="mb-4">
-                                <a href="#" class="hover:underline">Android</a>
-                            </li>
-                            <li class="mb-4">
-                                <a href="#" class="hover:underline">Windows</a>
-                            </li>
-                            <li class="mb-4">
-                                <a href="#" class="hover:underline">MacOS</a>
-                            </li>
-                        </ul> --}}
-                    </div>
                 </div>
             </div>
+        </footer>
     </div>
-    </footer>
 </body>
 
 </html>
