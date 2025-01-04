@@ -19,7 +19,7 @@
                     <div class="border border-gray-300 rounded-lg p-6 max-w-md shadow-[0_2px_22px_-4px_rgba(93,96,127,0.2)] max-md:mx-auto">
                       <form class="space-y-4">
                         <div class="mb-8">
-                          <h3 class="text-gray-800 text-3xl font-bold">Sign in</h3>
+                          <h3 class="text-gray-800 text-3xl font-bold">Sign in </h3>
                           <p class="text-gray-500 text-sm mt-4 leading-relaxed">Sign in to your account and explore a world of possibilities. Your journey begins here.</p>
                         </div>
 
@@ -60,7 +60,7 @@
 
                         <div class="!mt-8">
                           <button  type="button" class="w-full shadow-xl  py-2.5 px-4 text-sm tracking-wide rounded-lg text-white bg-blue-600 hover:bg-blue-700 focus:outline-none">
-                            <a href="/">Sign in</a>
+                            <a href="/admin">Sign in</a>
                         </button>
                         </div>
 
