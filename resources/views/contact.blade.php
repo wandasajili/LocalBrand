@@ -194,7 +194,7 @@
                                     Order</a>
                             </li>
                             <li class="mb-4">
-                                <a href="/contact" class="hover:underline">contact</a>
+                                <a href="/contact" class="hover:underline">Contact</a>
                             </li>
                         </ul>
                     </div>
