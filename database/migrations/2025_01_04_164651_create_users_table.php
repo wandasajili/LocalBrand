@@ -22,6 +22,15 @@ return new class extends Migration
      */
     public function down(): void
     {
+        schema::create('users', function (Blueprint $table) {
+			$table->id();
+			$table->string('nama');
+			$table->string('email');
+			$table->string('password');
+			$table->string('level');
+			$table->timestamps();
+		});
+
         Schema::dropIfExists('users');
     }
 };
