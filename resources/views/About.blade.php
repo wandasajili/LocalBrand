@@ -16,8 +16,8 @@
         <nav class="bg-gray-800" x-data="{ isOpen: false }">
             <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
                 <div class="flex h-16 items-center justify-between">
-                    <div class="flex items-center">
 
+                    <div class="flex items-center">
                         <div class="hidden md:block">
                             <div class="ml-10 flex items-baseline space-x-4">
                                 <a href="/" class="rounded-md px-3 py-2 text-sm font-medium text-gray-300"
@@ -32,6 +32,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="hidden md:block">
                         <div class="ml-4 flex items-center md:ml-6">
                             <div class="hidden md:flex items-center space-x-4">
@@ -74,7 +75,6 @@
                                 </div>
                             </div>
 
-                            <!-- Profile dropdown -->
                             <div class="relative ml-3">
                                 <div>
                                     <button type="button" @click="isOpen = !isOpen"
@@ -104,6 +104,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="-mr-2 flex md:hidden">
 
                         <!-- Mobile menu button -->
@@ -131,7 +132,6 @@
                 </div>
             </div>
 
-            <!-- Mobile menu, show/hide based on menu state. -->
             <div x-show="isOpen" class="md:hidden" id="mobile-menu">
                 <div x-show="isOpen" class="md:hidden bg-gray-800 text-gray-300 space-y-2 py-3 px-4">
                     <a href="/" class="block rounded-md px-3 py-2 hover:bg-gray-700 hover:text-white">Home</a>
@@ -182,7 +182,6 @@
                 </form>
             </div>
         </main>
-
 
         <footer class="bg-white dark:bg-gray-900">
             <div class="mx-auto w-full max-w-screen-xl">
