@@ -144,7 +144,6 @@
             </div>
         </nav>
 
-
         <main class="flex">
             <div class="font-sans p-4 mx-auto lg:max-w-6xl md:max-w-4xl">
                 <h2 class="text-2xl sm:text-3xl font-extrabold text-gray-800 mb-6 sm:mb-10">Collections</h2>

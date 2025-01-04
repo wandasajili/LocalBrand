@@ -62,8 +62,8 @@
                             </button>
                             <div x-show="isDropdownOpen" @click.away="isDropdownOpen = false"
                                 class="absolute right-0 mt-2 w-48 bg-white rounded-md shadow-lg z-20">
-                                <a href="/login"
-                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Login</a>
+                                <a href="/Profile"
+                                    class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Profile</a>
                                 <a href="/login" class="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-200">Sign
                                     out</a>
                             </div>

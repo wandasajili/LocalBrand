@@ -46,3 +46,7 @@ Route::get('/forgotpass', function () {
 Route::get('/cekout', function () {
     return view('cekout',);
 });
+
+Route::get('/Profile', function () {
+    return view('Profile',);
+});
