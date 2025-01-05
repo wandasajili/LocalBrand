@@ -24,7 +24,7 @@
                         </div>
 
                         <div>
-                          <label class="text-gray-800 text-sm mb-2 block">User name</label>
+                          <label class="text-gray-800 text-sm mb-2 block">Email</label>
                           <div class="relative flex items-center">
                             <input name="username" type="text" required class="w-full text-sm text-gray-800 border border-gray-300 pl-4 pr-10 py-3 rounded-lg outline-blue-600" placeholder="Enter user name" />
                             <svg xmlns="http://www.w3.org/2000/svg" fill="#bbb" stroke="#bbb" class="w-[18px] h-[18px] absolute right-4" viewBox="0 0 24 24">
