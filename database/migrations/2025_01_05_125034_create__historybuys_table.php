@@ -11,8 +11,12 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('admin_id', function (Blueprint $table) {
+        Schema::create('historybuys', function (Blueprint $table) {
             $table->id();
+            $table->foreignId('user_id')->constrained()->cascadeOnDelete();
+            $table->foreignId('produk_id')->constrained()->cascadeOnDelete();
+            $table->timestamp('purchased_at');
+            $table->unique(['user_id', 'produk_id']);
             $table->timestamps();
         });
     }
@@ -22,6 +26,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('admin_id');
+        Schema::dropIfExists('historybuys');
     }
 };
