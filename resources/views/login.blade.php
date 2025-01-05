@@ -63,8 +63,6 @@
                             <a href="/admin">Sign in</a>
                         </button>
                         </div>
-
-                        <p class="text-sm !mt-8 text-center text-gray-500">Don't have an account <a href="/register" class="text-blue-600 font-semibold hover:underline ml-1 whitespace-nowrap">Register here</a></p>
                       </form>
                     </div>
                     <div class="max-md:mt-8">
